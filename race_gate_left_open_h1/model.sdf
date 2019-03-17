@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="Race Gate Left Open H1">
+    <link name="race_gate_left_open_h1">
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://race_gate_left_open_h1/meshes/03.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://race_gate_left_open_h1/meshes/03.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="Race Gate Square H2">
+    <link name="race_gate_square_h2">
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://race_gate_square_h2/meshes/08.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://race_gate_square_h2/meshes/08.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+  </model>
+</sdf>
