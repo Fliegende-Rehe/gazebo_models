@@ -2,14 +2,14 @@
 <sdf version="1.6">
   <model name="Race Gate Square H1">
     <link name="race_gate_square_h1">
-      <collision name="collision">
+      <collision name="race_gate_square_h1_collision">
         <geometry>
           <mesh>
             <uri>model://race_gate_square_h1/meshes/05.dae</uri>
           </mesh>
         </geometry>
       </collision>
-      <visual name="visual">
+      <visual name="race_gate_square_h1">
         <geometry>
           <mesh>
             <uri>model://race_gate_square_h1/meshes/05.dae</uri>
